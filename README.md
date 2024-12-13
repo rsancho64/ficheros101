@@ -2,6 +2,8 @@
 
 Empezamos a ver el concepto de **fichero**.
 
+material majo de [ficheros con python](https://www2.eii.uva.es/fund_inf/python/notebooks/10_Ficheros/Ficheros.html)
+
 ## jerarquia clásica de volumen de informacion en computacion
 
 bit (binary digit)

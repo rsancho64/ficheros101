@@ -27,8 +27,10 @@ EOF: END OF FILE (a char)
 
 2. programar un procesador que partiendo de la lista ([]) indique los valores máximo, minimo, medio y modal 
 
-- (moda está en un paquete estadistico de python)
-- (exite un paquete estadistico de python)
+- [ ] moda está en un paquete estadistico de python?
+- [ ] existe un paquete estadistico de python?
+
+
 
 
 

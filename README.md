@@ -6,11 +6,11 @@ material majo de [ficheros con python](https://www2.eii.uva.es/fund_inf/python/n
 
 ## jerarquia clásica de volumen de informacion en computacion
 
-bit (binary digit)
-    byte (octeto) (de bits) ~ sucesion de 8 bits
-        campo ~ palabra ~ aspecto de i ~ sucesion de bytes
-            registro ~ sucesion de campos
-                fichero ~ sucesion de registros
+**bit** (binary digit)
+    **byte** (octeto) (de bits) ~ sucesion de 8 bits
+        **campo** ~ palabra ~ aspecto de i ~ sucesion de bytes
+            **registro** ~ sucesion de campos
+                **fichero** ~ sucesion de registros
 
 
 ## Terminologia
